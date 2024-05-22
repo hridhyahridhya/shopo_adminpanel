@@ -1,0 +1,1 @@
+# shopo_adminpanel
